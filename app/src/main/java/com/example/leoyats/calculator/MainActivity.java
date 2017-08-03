@@ -105,5 +105,7 @@ public class MainActivity extends AppCompatActivity {
         }
         resultField.setText(operand.toString().replace('.', ','));
         numberField.setText("");
+//        resultField.setText(operand.toString().replace('.', ','));
+//        numberField.setText("");
     }
 }
